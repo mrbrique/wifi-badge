@@ -19,7 +19,7 @@ wpa | Optional sceurity key for the network. It will be generated if unspecified
 A svg default named `wifi-badge.svg` will be created. It contains the given SSID and a generated wpa key written on it, with a QR code encoded Wi-Fi configuration. 
 
 Example
-![wifi-badge.svg](docs\images\wifi-badge.svg)
+![wifi-badge.svg](docs/images/wifi-badge.svg)
 
 
 ### With all arguments
@@ -28,7 +28,7 @@ Example
 Generating a `you_name_it.svg` with SSID `another-ssid` and security key `security.key`.
 
 Example
-![wifi-badge.svg](docs\images\wifi-badge.svg)
+![wifi-badge.svg](docs/images/wifi-badge.svg)
 
 ## Dependencies
 * [zxing](https://github.com/zxing/zxing)
