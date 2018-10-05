@@ -29,7 +29,7 @@ Example\
 Generating a `you_name_it.svg` with SSID `another-ssid` and security key `security.key`.
 
 Example\
-<img src="docs/images/you_name_it.svg?sanitize=true" alt="you_name_it.svg" width="118px">
+<img src="docs/images/you_name_it.svg?sanitize=true" alt="you_name_it.svg" width="126px">
 
 
 ## Dependencies
